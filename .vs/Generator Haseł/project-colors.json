@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e446a885-f4f0-4bc1-a1a7-437d73bf0dd7": {
+      "ProjectGuid": "e446a885-f4f0-4bc1-a1a7-437d73bf0dd7",
+      "DisplayName": "Generator Haseł",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Różne pliki",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
